@@ -33,7 +33,6 @@
             "relationshipType": "one-to-many",
             "otherEntityRelationshipName": "equipo"
         },
-
         {
             "relationshipId": 6,
             "relationshipName": "temporada",
